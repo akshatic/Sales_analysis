@@ -1,2 +1,2 @@
-# Sales_analysis
+# Sales Analysis
 Evaluated the Retail Sales data of a company and made an Interactive dashboard on tableua
